@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "NMEADisplay", "NMEADisplay\NMEADisplay.cproj", "{52C904DD-40D2-4F7D-9FCB-36FA47A69FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C904DD-40D2-4F7D-9FCB-36FA47A69FFF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{52C904DD-40D2-4F7D-9FCB-36FA47A69FFF}.Debug|AVR.Build.0 = Debug|AVR
+		{52C904DD-40D2-4F7D-9FCB-36FA47A69FFF}.Release|AVR.ActiveCfg = Release|AVR
+		{52C904DD-40D2-4F7D-9FCB-36FA47A69FFF}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
